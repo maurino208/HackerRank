@@ -12,7 +12,7 @@ static ArrayList<String> getChar(String s) {
 }
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------
 //método para calcular el número de veces que se repite un carácter en un String
 public static int contarCaracteres(String cadena, char caracter) {
         int posicion, contador = 0;
